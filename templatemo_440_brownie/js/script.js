@@ -146,3 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 });
+ function voltarInicio() 
+ {
+    window.location.href = "index.html"; // substitua pelo nome do seu arquivo da página inicial
+  }
